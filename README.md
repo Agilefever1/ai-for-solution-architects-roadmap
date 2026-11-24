@@ -71,11 +71,11 @@ Let's get started.
 
 Before the details, learn the words that come up in every AI conversation at work. Each one is a short idea, and the rest of the roadmap builds on them. An architect also needs RAG (retrieval from your own documents), token (the unit a model reads and bills by) and guardrail (a rule that limits model behavior).
 
-- LLM: the language model behind tools like ChatGPT and Claude
-- Prompt: the instruction and context you give the model
-- Agent: a model that plans steps and uses tools to finish a task
-- MCP: a standard way to connect a model to tools and data
-- Evaluation: checking whether an AI output is correct and safe
+- [LLM](https://agilefever.com/large-language-models-llm-guide/): the language model behind tools like ChatGPT and Claude
+- [Prompt](https://agilefever.com/prompt-engineering-vs-context-engineering/): the instruction and context you give the model
+- [Agent](https://agilefever.com/what-is-agentic-ai/): a model that plans steps and uses tools to finish a task
+- [MCP](https://agilefever.com/model-context-protocol-explained/): a standard way to connect a model to tools and data
+- [Evaluation](https://agilefever.com/evaluate-llm-application/): checking whether an AI output is correct and safe
 - [AI glossary from A to Z](https://agilefever.com/artificial-intelligence-terms-ai-glossary-examples/)
 
 ### Step 1: Gen AI Foundations for Architects
